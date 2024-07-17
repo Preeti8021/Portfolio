@@ -37,6 +37,7 @@ nav,
 nav {
   position: sticky;
   top:0;
+  background-color: white;
   justify-content: space-around;
   align-items: center;
   height: 17vh;
