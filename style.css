@@ -35,6 +35,8 @@ nav,
 }
 
 nav {
+  position: sticky;
+  top:0;
   justify-content: space-around;
   align-items: center;
   height: 17vh;
